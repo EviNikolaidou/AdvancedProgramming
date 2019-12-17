@@ -1,0 +1,32 @@
+skrai,54321
+01636657492,15/Mar/1996
+50 Main Street, Newark, NG13 2PP
+
+James,Lalyk
+054327832,30/Apr/1996
+42 Rowan Way, Nottingham, NG23 3KO
+
+Evi,12345
+123456789,13/01/1997
+Larnaca,Cyprus
+
+Evi,123456
+55865685485,13/01/1997
+Birmingham,UK
+
+Daniel,123456
+123456923645,23/07/1987
+london
+
+Daniel,6789
+5625525255,23/07/1987
+London,UK
+
+Justin,123456
+5545118515,01/03/1994
+Ontario,Canada
+
+Justin,evi
+45154515151,01/03/1994
+L.A.USA
+
